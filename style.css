@@ -4,11 +4,13 @@ body {
     font-family: source Sans Pro;
     background-color: #eee;
     position: -ms-page;
+    padding: 10%;
 
 }
 
-header {
+h1 {
     font-family: Abril Fatface;
+    text-align: center;
 }
 
 h2 {
@@ -23,8 +25,14 @@ h5 {
 .newspaper-container {
     background-color: white;
     box-shadow: #ddd;
+    contain: width 700px;
+    border-radius: 3ch;
+    box-shadow: #777;
+    padding: 5%;
+
 }
 
 nav{
     color: #777;
+    text-align: center;
 }
