@@ -32,7 +32,16 @@ h5 {
 
 }
 
-nav{
+li{
     color: #777;
-    text-align: center;
+    display: inline;
+    list-style:none;
+    padding: 5px;
+    justify-content: space-between;
 }
+
+li{
+    padding:10px 23px;
+    display: inline-block;
+    
+  }
